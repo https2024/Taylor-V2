@@ -40,9 +40,9 @@ async function loadConfig() {
         debug: "blue",
         error: "brightRed"
       }), global.owner = [
-        ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", !0]
+        ["6287760550924", "️Gima", !0]
       ],
-      global.mods = ["6282195322106"], global.prems = ["6282195322106"], global.APIs = {
+      global.mods = ["6287760550924"], global.prems = ["6287760550924"], global.APIs = {
         amel: "https://melcanz.com",
         bg: "http://bochil.ddns.net",
         dhnjing: "https://dhnjing.xyz",
@@ -70,21 +70,21 @@ async function loadConfig() {
         "https://api.botcahx.biz.id": "Admin"
       }, global.lolkey = pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX", "GataDios", "elainaai"]),
       global.xyro = "yqiBQF86F4", global.nomorbot = "6281779570422", global.nomorown = "6282195322106",
-      global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ", global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」",
+      global.namebot = " PT_GIMA_BOT あ⁩ ", global.nameown = "「 GIMA 」",
       global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
       global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]),
-      global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
+      global.wm = "                「 PT_GIMA_BOT あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
       global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ", global.giflogo = VideoGalau(), global.fla = pickRandom(ImgLogoFlam()),
-      global.flaaa = ImgLogoFlam(), global.brandc = ImgLogoDynamic(), global.sig = "https://www.instagram.com/wudysoft",
-      global.sgh = "https://www.github.com/AyGemuy", global.sgc = "https://s.id/Taylor-V2",
-      global.sdc = "https://www.discord.com/wudysoft", global.snh = "https://www.tiktok.com/@upload_file",
-      global.sfb = "https://www.facebook.com/", global.syt = "https://www.youtube.com/",
+      global.flaaa = ImgLogoFlam(), global.brandc = ImgLogoDynamic(), global.sig = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
+      global.sgh = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21", global.sgc = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
+      global.sdc = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21", global.snh = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
+      global.sfb = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21", global.syt = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
       global.premnsfw = !0, global.dpptx = "application/vnd.openxmlformats-officedocument.presentationml.presentation",
       global.ddocx = "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       global.dxlsx = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       global.dpdf = "application/pdf", global.drtf = "text/rtf", global.fsizedoc = SizeDoc(),
       global.fpagedoc = PageDoc(), global.dmenut = htjava + "───『", global.dmenub = "│" + pmenus,
-      global.dmenub2 = "│" + pmenus, global.dmenuf = "╰──────────⳹", global.dashmenu = "☰ *D A S B O A R D* ☰",
+      global.dmenub2 = "│" + pmenus, global.dmenuf = "╰──────────⳹", global.dashmenu = "☰ *© PT_GIMA_HOSTING* ☰",
       global.htki = htjava + "───『", global.htka = "』───" + htjava, global.hwaifu = ImgWaifu(),
       global.hbeach = ImgCosplay(), global.thumbnailUrl = ImgBoneka(), global.hoppai = ImgCosplay(),
       global.hloli = ImgCosplay(), global.hyuri = ImgCosplay(), global.hneko = ImgCosplay(),
@@ -98,16 +98,16 @@ async function loadConfig() {
       global.lopr = "🅟", global.lolm = "Ⓛ", global.cmenut = htjava + "───『",
       global.cmenuh = "』───" + htjava, global.cmenub = "│" + pmenus, global.cmenuf = "╰──────────⳹",
       global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ", global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"]),
-      global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚", global.stickpack = packname, global.author = "𝑻𝒂𝒚𝒍𝒐𝒓 乂 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕",
+      global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚", global.stickpack = packname, global.author = "©PT_GIMA_HOSTING",
       global.stickauth = author + "\nwa.me/" + nomorbot, global.multiplier = 69,
       global.eror = pickRandom(["❌", "🚫", "💥", "❎"]), global.wait = pickRandom(["⏳", "⌛", "⏰", "⏱️"]),
       global.render = pickRandom(["_*`Rendering 📍`*_", "_*`Processing 📍`*_", "_*`Generating content 📍`*_"]),
-      global.webs = "https://s.id/Cerdasin62", global.gcwangsaf = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph",
-      global.saweria = "https://saweria.com/wudysoft", global.dana = "0887435373103",
-      global.pulsa = "082195322106", global.trakteer = "https://trakteer.id/wudysoft",
-      global.paypal = "wudysoft@mail.com", global.gopay = "082195322106", global.pdana = "0887435373103",
-      global.povo = "082195322106", global.pgopay = "082195322106", global.ppulsa = "082195322106",
-      global.ppulsa2 = "082195322106", global.psaweria = "https://saweria.com/Wudysoft",
+      global.webs = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21", global.gcwangsaf = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
+      global.saweria = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21", global.dana = "6287760550924",
+      global.pulsa = "-", global.trakteer = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
+      global.paypal = "-", global.gopay = "-", global.pdana = "6287760550924",
+      global.povo = "-", global.pgopay = "-", global.ppulsa = "-",
+      global.ppulsa2 = "-", global.psaweria = "https://whatsapp.com/channel/0029VaeArznHltY4n5FLCM21",
       global.rpg = {
         emoticon(string) {
           string = string.toLowerCase();
@@ -287,7 +287,7 @@ function PageDoc() {
 }
 
 function businessOwnerJid() {
-  return pickRandom([pickRandom([global.nomorown, "0", "628561122343", "6288906250517", "6282195322106", "6281119568305", "6281282722861", "6282112790446"]) + "@s.whatsapp.net"]);
+  return pickRandom([pickRandom([global.nomorown, "0", "6287760550924", "6287760550924", "6287760550924", "6287760550924", "6287760550924", "6287760550924"]) + "@s.whatsapp.net"]);
 }
 watchFile(file, () => {
   unwatchFile(file), console.log(chalk.redBright("Update config.js")), import(`${file}?update=${Date.now()}`);
