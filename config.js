@@ -69,7 +69,7 @@ async function loadConfig() {
         "https://api.zahwazein.xyz": "zenzkey_1ec92f71d3bb",
         "https://api.botcahx.biz.id": "Admin"
       }, global.lolkey = pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX", "GataDios", "elainaai"]),
-      global.xyro = "yqiBQF86F4", global.nomorbot = "6281779570422", global.nomorown = "6282195322106",
+      global.xyro = "yqiBQF86F4", global.nomorbot = "6283808170193", global.nomorown = "6287760550924",
       global.namebot = " PT_GIMA_BOT あ⁩ ", global.nameown = "「 GIMA 」",
       global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
       global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]),
